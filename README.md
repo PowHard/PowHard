@@ -11,7 +11,7 @@
 
 ![Debian](https://img.shields.io/badge/Debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![UFW](https://img.shields.io/badge/UFW-%23EAA613.svg?style=for-the-badge&logo=linux&logoColor=white)
+![UFW](https://img.shields.io/badge/UFW-%23EAA613.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAMFBMVEVHcEwAAADu7u7///8AnMAAnf8Arv8Avf8Azv8A3f8A7v8A//8AzP//7v//ZP//mf//rf8AAGYvAAAAA3RSTlMA9vctm0gAAAAJcEhZcwAACxMAAAsTAQCanBgAAAA5SURBVCjPY2AcbAAGjFAAsgkiwIIRTBAZUIgRIsAIEmAESIIZqIDZYAOQDTCAsEFmIIbIYgNhwwIAL8UAn9F4vscAAAAASUVORK5CYII=&logoColor=white)
 ![AppArmor](https://img.shields.io/badge/AppArmor-%23A81D33.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
