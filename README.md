@@ -11,15 +11,7 @@
 
 ![Debian](https://img.shields.io/badge/Debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-<dd>
-  <a href="https://github.com/votre-username" target="_blank" style="display: inline-block; text-decoration: none; font-family: sans-serif;">
-    <span style="background: #EAA613; display: inline-flex; align-items: center; height: 28px; padding-left: 10px; padding-right: 4px; border-radius: 3px 0 0 3px;">
-      <img src="https://grafikart.fr/uploads/icons/ufw.png" alt="UFW Logo" width="16" height="16" style="filter: brightness(0) invert(1);"/>
-    </span><span style="background: #EAA613; color: #fff; display: inline-flex; align-items: center; height: 28px; padding-right: 10px; padding-left: 4px; font-size: 11px; font-weight: bold; text-transform: uppercase; letter-spacing: 0.5px; border-radius: 0 3px 3px 0;">
-      UFW
-    </span>
-  </a>
-</dd>
+![UFW](https://img.shields.io/badge/UFW-%23EAA613.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![AppArmor](https://img.shields.io/badge/AppArmor-%23A81D33.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
