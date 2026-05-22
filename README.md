@@ -8,7 +8,9 @@
 ## Stack Technique
 
 ### Stack Technique
-![Docker](https://cdn.simpleicons.org/docker/2496ED) ![Nginx](https://cdn.simpleicons.org/nginx/009639) ![MariaDB](https://cdn.simpleicons.org/mariadb/003545) ![NestJS](https://cdn.simpleicons.org/nestjs/E0234E)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)
 
 ### Administration système
 
