@@ -36,6 +36,12 @@ I'm student at 42
 
 ---
 
+### 42 main project
+[![trancendance](https://github.com/PowHard/Transcendance/transcendence.png)](https://github.com/PowHard/Transcendance)
+[![inception](https://github.com/PowHard/Inception/inception.png)](https://github.com/PowHard/Inception)
+
+---
+
 ### Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteb%C3%A1n-pereira-montero-1638b5374/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esteban71.montero@gmail.com)
 
