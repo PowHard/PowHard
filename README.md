@@ -37,7 +37,15 @@ I'm student at 42
 ---
 
 ### 42 main project
-[![trancendance](https://github.com/PowHard/Transcendance/blob/main/transcendence.png)](https://github.com/PowHard/Transcendance/)[![inception](https://github.com/PowHard/Inception/blob/main/inception.png)](https://github.com/PowHard/Inception/)
+<p align="center">
+  <a href="https://github.com/PowHard/Transcendance/" target="_blank">
+    <img src="https://github.com/PowHard/Transcendance/blob/main/transcendence.png?raw=true" alt="Transcendance" width="45%" style="max-width: 400px; margin-right: 10px;"/>
+  </a>
+  
+  <a href="https://github.com/PowHard/Inception/" target="_blank">
+    <img src="https://github.com/PowHard/Inception/blob/main/inception.png?raw=true" alt="Inception" width="45%" style="max-width: 400px;"/>
+  </a>
+</p>
 
 ---
 
