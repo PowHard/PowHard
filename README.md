@@ -37,8 +37,7 @@ I'm student at 42
 ---
 
 ### 42 main project
-[![trancendance](https://github.com/PowHard/Transcendance/blob/main/transcendence.png)](https://github.com/PowHard/Transcendance/)
-[![inception](https://github.com/PowHard/Inception/blob/main/inception.png)](https://github.com/PowHard/Inception/)
+[![trancendance](https://github.com/PowHard/Transcendance/blob/main/transcendence.png)](https://github.com/PowHard/Transcendance/)[![inception](https://github.com/PowHard/Inception/blob/main/inception.png)](https://github.com/PowHard/Inception/)
 
 ---
 
